@@ -4,7 +4,7 @@ Certainly! Below, I'll provide additional details about the API endpoints added 
 
 ### API Endpoints:
 
-1. **Create Post:**
+1. *Create Post*:
    - **HTTP Method:** POST
    - **URL:** `/posts/`
    - **Functionality:** Allows users to create a new blog post.
