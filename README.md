@@ -8,7 +8,7 @@
    
 2. MongoDB: Install MongoDB on your system. You can download it from the official MongoDB website.
 
-# Installtion Steps
+# Installation Steps
 
 1. **Start MongoDB Server**:
    Start the MongoDB server. You can do this by running the mongod command in your terminal.
